@@ -62,7 +62,7 @@ var app = {
         $('#scroller').html('Conectando con servidor...');
 		$.ajax({
 			dataType: 'json',
-			url: 'http://www.tic-uth.net/gflores/ticinfo/',
+			url: 'http://darkuskyo.net/apps/?firefoxos=yes',//'http://www.tic-uth.net/gflores/ticinfo/',
 			data: {}
 		}).done(function (data) {
             console.log(data);
