@@ -9,7 +9,7 @@
     },
     "developer": {
         "name": "Gustavo Adolfo Flores González",
-        "url": "http://www.tic-uth.net/gflores/"
+        "url": "http://darkuskyo.net/"
     },
     "installs_allowed_from": ["*"],
     "locales": {
@@ -17,7 +17,7 @@
             "description": "App educativa que da información sobre la carrera de TIC en UTHermosillo",
             "developer": {
 				"name": "Gustavo Adolfo Flores González",
-				"url": "http://www.tic-uth.net/gflores/"
+				"url": "http://darkuskyo.net/"
             }
         }
     },
