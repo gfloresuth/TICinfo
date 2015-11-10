@@ -66,6 +66,7 @@ var app = {
 			data: {}
 		}).done(function (data) {
             console.log(data);
+            
             var tot, shtml, archivo, esArchivo, sf, i, f;
 			tot = data.news.length;
 			shtml = [];
@@ -153,3 +154,9 @@ var app = {
         console.log('Received Event: ' + id);
     }
 };
+
+
+
+$(document).ready(function(){
+  app.initialize();
+});
